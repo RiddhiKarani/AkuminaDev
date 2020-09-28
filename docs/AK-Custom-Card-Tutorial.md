@@ -146,4 +146,3 @@ We'll need to perform the following steps to get the basics hooked up:
 * Create a new Activity Type
 
 * Create a new Sharepoint Subscription associated with the Activity Type
-
